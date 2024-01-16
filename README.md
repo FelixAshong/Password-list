@@ -17,5 +17,4 @@ Create unlimited passwords to brute force any account! This tool is created only
 10. Exit the tool
 11. Type cat passwords.txt too see all the created passwords
 
-# Help
-if you are facing any isue in my tools! iam mostly active on Instagram @cyber_dioxide_
+
