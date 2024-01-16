@@ -2,10 +2,7 @@
 
 Create unlimited passwords to brute force any account! This tool is created only for educational purposes.
 
-## 🛠️ Service
 
-* Get the 14M passwords list containing mostly used words.
-* Explore the world's best hacking course by DMing me on Instagram @coding_memz.
 
 ## 🔧 Usage
 
