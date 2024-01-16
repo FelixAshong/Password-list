@@ -16,9 +16,9 @@ def banner():
     print(ran, pyfiglet.figlet_format("\tWordList\n\tGen"))
     print(ran + "\t\tV_3.0\t\n\n")
 
-    print(Style.BRIGHT + Fore.LIGHTCYAN_EX, "\n", "- " * 4, " [+] Follow me on Instagram @cyber_dioxide ", "- " * 4)
-    print(Style.BRIGHT + Fore.LIGHTYELLOW_EX, "\n", "- " * 4, " [+] Follow me on Instagram @cyber_dioxide_ ", "- " * 4)
-    print(Style.BRIGHT + Fore.LIGHTRED_EX, "\n", "- " * 4, "[+] Github: https://github.com/Cyber-Dioxide/ ", "- " * 3)
+    print(Style.BRIGHT + Fore.LIGHTCYAN_EX, "\n", "- " * 4, " [+] Follow me on X @PHLEODELLY ", "- " * 4)
+    print(Style.BRIGHT + Fore.LIGHTYELLOW_EX, "\n", "- " * 4, " [+] Follow me on Instagram @DHOSTY.ME ", "- " * 4)
+    print(Style.BRIGHT + Fore.LIGHTRED_EX, "\n", "- " * 4, "[+] Github: https://github.com/FelixAshong/ ", "- " * 3)
 
 
 banner()
