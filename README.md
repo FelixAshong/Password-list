@@ -83,4 +83,4 @@ If you have ideas for improvements or new features, feel free to contribute! Let
 
 ## 📝 License
 
-This project is licensed under the oost Software License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Boost Software License - see the [LICENSE.md](LICENSE.md) file for details.
