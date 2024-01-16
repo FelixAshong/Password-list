@@ -8,7 +8,7 @@ Create unlimited passwords to brute force any account! This tool is created only
 1. apt install python3
 2. apt install cat
 3. apt install git
-4. git clone https://github.com/Cyber-Dioixde/WordList-Gen
+4. git clone https://github.com/FelixAshong/Password-list.git
 5. cd WordList-Gen
 6. pip install -r requirements.txt
 7. ls
